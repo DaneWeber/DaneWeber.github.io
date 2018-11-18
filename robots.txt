@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /manifesto-for-scaling-agility-draft/
